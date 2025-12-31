@@ -1,0 +1,6 @@
+﻿Vacancy ID,Employee ID,Position Title,Hiring ManagerID,Source of Candidate,Time to Fill,Number of Vacancies,Candidate Pipeline Stage,Assessment Results,Office Location,Region/State,Country
+V001,E009,Payroll Officer,E003,Agency,15,2,Applied,Score: 85%,Subiaco Office,WA,Australia
+V002,E016,Sales Rep,E007,Referral,21,3,Interviewed,Score: 85%,Subiaco Office,WA,Australia
+V003,E004,Operations Staff,E016,Job Board,23,2,Interviewed,Score: 85%,Subiaco Office,WA,Australia
+V004,E006,Sales Rep,E007,Agency,58,3,Interviewed,Score: 85%,Subiaco Office,WA,Australia
+V005,E009,Operations Staff,E016,Agency,24,1,Hired,Score: 85%,Subiaco Office,WA,Australia

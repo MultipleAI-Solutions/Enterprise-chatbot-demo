@@ -1,0 +1,27 @@
+﻿Employee ID,Current Position,Performance Rating,Potential Rating,Future Roles,Ready Now Roles,Ready 1-2 Yrs,Likely Backfill Candidate,Development Needs,Target Readiness Date
+E001,CEO,5,Medium,,No,,E003,Leadership Training,2026-01-02
+E002,Executive Assistant,2,Medium,,No,,,,2026-01-09
+E003,Chief Financial Officer,5,Medium,CEO,Yes,,E007,Leadership Training,2026-02-20
+E004,Accounts Receivable,3,Medium,CFO,No,Yes,,,2026-11-04
+E005,Accounts Payable,2,Medium,,No,,,,2026-02-25
+E006,Payroll Officer,5,Medium,HRO,No,Yes,,,2026-07-10
+E007,Sales Manager,2,Medium,CFO,Yes,,E008,Leadership Training,2026-01-18
+E008,Sales Team Leader,2,Medium,Sales Manager,No,Yes,E012,Leadership Training,2026-09-17
+E009,Sales Team Leader,2,Medium,,No,,E013,Leadership Training,2026-07-23
+E010,Sales Rep,5,Medium,,No,,,,2026-06-02
+E011,Sales Rep,5,Medium,,No,,,,2026-09-26
+E012,Sales Rep,5,Medium,Sales Team Leader,Yes,,E020,,2026-07-07
+E013,Sales Rep,2,Medium,Sales Team Leader,Yes,,,,2026-07-25
+E014,Sales Rep,1,Medium,Sales Team Leader,Yes,,,,2026-10-13
+E015,Sales Rep,1,Medium,Sales Team Leader,Yes,,,,2026-09-03
+E016,Operations Manager,3,Medium,CEO,No,No,E017,,2026-04-25
+E017,Operations Staff,5,Medium,Operations Manager,Yes,,,,2026-10-22
+E018,Operations Staff,5,Medium,Operations Manager,No,Yes,,,2026-03-31
+E019,Operations Staff,4,Medium,Manager,No,No,,,2026-03-14
+E020,Operations Staff,5,Medium,Sales Rep,Yes,,,,2026-09-14
+E021,Operations Staff,5,Medium,Sales Rep,Yes,,,,2026-09-14
+E022,Operations Staff,5,Medium,Sales Rep,Yes,,,,2026-09-14
+E023,Operations Staff,5,Medium,Sales Rep,Yes,,,,2026-09-14
+E024,Operations Staff,5,Medium,Sales Rep,Yes,,,,2026-09-14
+E025,Operations Staff,5,Medium,Sales Rep,Yes,,,,2026-09-14
+E026,Operations Staff,5,Medium,Sales Rep,Yes,,,,2026-09-14

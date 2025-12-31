@@ -1,0 +1,27 @@
+﻿Employee ID,Compliance Training Completion %,WHS Incident Involvement,Incident Type,Date,Severity,Time Lost,Near Miss Count,Injury Type,Lost Time Injury Indicator,Policy Breach Flag
+E001,98,1,,,,,0,,No,No
+E002,91,0,,,,,0,,No,No
+E003,80,1,,,,,0,,No,No
+E004,84,1,,,,,1,,No,No
+E005,85,2,,,,,1,,No,No
+E006,96,2,,,,,1,,No,No
+E007,88,0,,,,,1,,No,No
+E008,85,1,,,,,1,,No,No
+E009,96,1,,,,,1,,No,No
+E010,96,0,,,,,1,,No,No
+E011,99,1,,,,,0,,No,No
+E012,81,1,,,,,1,,No,No
+E013,90,1,,,,,1,,No,No
+E014,95,2,,,,,0,,No,No
+E015,91,1,,,,,1,,No,No
+E016,84,0,,,,,1,,No,No
+E017,93,0,,,,,0,,No,No
+E018,94,2,,,,,1,,No,No
+E019,99,2,,,,,0,,No,No
+E020,83,1,,,,,0,,No,No
+E021,83,1,,,,,1,,No,No
+E022,83,1,,,,,2,,No,No
+E023,83,1,,,,,3,,No,No
+E024,83,1,,,,,4,,No,No
+E025,83,1,,,,,5,,No,No
+E026,83,1,,,,,6,,No,No

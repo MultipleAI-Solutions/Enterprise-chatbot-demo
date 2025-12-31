@@ -1,0 +1,27 @@
+﻿Employee ID,Position Title,Position Level,Manager ID,Manager Name,Department / Function,Office Location,Region/State,Country,Date Appointed,Time in Role (YY/MM),Direct Reports
+E001,CEO,M3,,,Executive,Subiaco Office,WA,Australia,2019-06-04,1906-06-16 14:35:30.480,4
+E002,Executive Assistant,C1,E001,Alice CEO,Executive,Subiaco Office,WA,Australia,2019-04-01,1906-08-19 14:35:30.480,0
+E003,Chief Financial Officer,M1,E001,Alice CEO,Finance,Subiaco Office,WA,Australia,2022-12-17,1902-12-02 14:35:30.480,3
+E004,Accounts Receivable,F2,E003,Alice CEO,Finance,Subiaco Office,WA,Australia,2020-03-25,1905-08-25 14:35:30.480,1
+E005,Accounts Payable,F2,E003,Alice CEO,Finance,Subiaco Office,WA,Australia,2022-09-19,1903-03-01 14:35:30.480,0
+E006,Payroll Officer,F2,E003,Alice CEO,Finance,Subiaco Office,WA,Australia,2021-11-14,1904-01-04 14:35:30.480,0
+E007,Sales Manager,M1,E001,Alice CEO,Sales,Subiaco Office,WA,Australia,2018-01-26,1907-10-23 14:35:30.480,4
+E008,Sales Team Leader,S5,E007,Alice CEO,Sales,Joondalup Office,WA,Australia,2022-10-01,1903-02-17 14:35:30.480,5
+E009,Sales Team Leader,S5,E007,Alice CEO,Sales,Subiaco Office,WA,Australia,2021-07-18,1904-05-02 14:35:30.480,3
+E010,Sales Rep,S1,E008,Alice CEO,Sales,Joondalup Office,WA,Australia,2020-07-26,1905-04-24 14:35:30.480,2
+E011,Sales Rep,S3,E008,Alice CEO,Sales,Joondalup Office,WA,Australia,2022-06-15,1903-06-05 14:35:30.480,3
+E012,Sales Rep,S3,E008,Alice CEO,Sales,Joondalup Office,WA,Australia,2019-05-28,1906-06-23 14:35:30.480,4
+E013,Sales Rep,S3,E009,Alice CEO,Sales,Subiaco Office,WA,Australia,2020-12-10,1904-12-08 14:35:30.480,1
+E014,Sales Rep,S1,E009,Alice CEO,Sales,Subiaco Office,WA,Australia,2018-05-23,1907-06-28 14:35:30.480,4
+E015,Sales Rep,S1,E009,Alice CEO,Sales,Subiaco Office,WA,Australia,2020-10-09,1905-02-08 14:35:30.480,1
+E016,Operations Manager,M1,E001,Alice CEO,Operations,Joondalup Office,WA,Australia,2019-12-09,1905-12-10 14:35:30.480,4
+E017,Operations Staff,O1,E016,Alice CEO,Operations,Joondalup Office,WA,Australia,2019-07-05,1906-05-16 14:35:30.480,0
+E018,Operations Staff,O1,E016,Alice CEO,Operations,Joondalup Office,WA,Australia,2021-05-24,1904-06-26 14:35:30.480,5
+E019,Operations Staff,O3,E016,Alice CEO,Operations,Joondalup Office,WA,Australia,2018-09-08,1907-03-12 14:35:30.480,0
+E020,Operations Staff,O1,E016,Alice CEO,Operations,Joondalup Office,WA,Australia,2018-07-28,1907-04-23 14:35:30.480,4
+E021,Operations Staff,O1,E016,Alice CEO,Operations,Joondalup Office,WA,Australia,2018-07-28,1907-04-23 14:35:30.480,4
+E022,Operations Staff,O1,E016,Alice CEO,Operations,Joondalup Office,WA,Australia,2018-07-28,1907-04-23 14:35:30.480,4
+E023,Operations Staff,O1,E016,Alice CEO,Operations,Joondalup Office,WA,Australia,2018-07-28,1907-04-23 14:35:30.480,4
+E024,Operations Staff,O1,E016,Alice CEO,Operations,Joondalup Office,WA,Australia,2018-07-28,1907-04-23 14:35:30.480,4
+E025,Operations Staff,O1,E016,Alice CEO,Operations,Joondalup Office,WA,Australia,2018-07-28,1907-04-23 14:35:30.480,4
+E026,Operations Staff,O1,E016,Alice CEO,Operations,Joondalup Office,WA,Australia,2018-07-28,1907-04-23 14:35:30.480,4

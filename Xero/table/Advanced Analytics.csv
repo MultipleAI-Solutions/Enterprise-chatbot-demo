@@ -1,0 +1,27 @@
+﻿Employee ID,Cost-to-Company,Training Investment,Productivity Index,Attrition Probability,Flight Risk Score,Engagement Trend,Promotion Velocity,Critical Role Indicator
+E001,105699,1408,118,10%,High,Declining,5,Yes
+E002,124603,4378,84,14%,Low,Stable,3,Yes
+E003,84572,2336,74,25%,High,Declining,2,No
+E004,186376,3221,117,11%,High,Declining,1,No
+E005,117409,4103,71,22%,High,Improving,1,No
+E006,86245,3574,104,27%,High,Stable,2,Yes
+E007,72341,1536,97,22%,Low,Improving,5,Yes
+E008,171838,1595,112,30%,Medium,Stable,1,Yes
+E009,171808,4098,103,9%,High,Improving,3,Yes
+E010,146780,3939,118,13%,Medium,Declining,2,No
+E011,106362,1758,102,27%,Low,Improving,4,No
+E012,179282,4360,97,13%,Medium,Stable,5,No
+E013,179159,2751,104,21%,Medium,Declining,4,Yes
+E014,189123,4363,104,8%,High,Stable,1,No
+E015,77032,3671,93,30%,Low,Stable,2,Yes
+E016,143108,610,92,16%,Medium,Declining,4,No
+E017,85462,2522,78,16%,Medium,Stable,4,Yes
+E018,112230,3115,88,28%,Low,Declining,3,No
+E019,195892,2696,87,7%,Low,Improving,4,Yes
+E020,103456,570,86,17%,High,Declining,5,No
+E021,103456,570,86,17%,High,Declining,5,No
+E022,103456,570,86,17%,High,Declining,5,No
+E023,103456,570,86,17%,High,Declining,5,No
+E024,103456,570,86,17%,High,Declining,5,No
+E025,103456,570,86,17%,High,Declining,5,No
+E026,103456,570,86,17%,High,Declining,5,No

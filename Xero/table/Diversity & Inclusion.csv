@@ -1,0 +1,27 @@
+﻿Employee ID,Gender,Age Group,Aboriginal/Torres Strait Islander Status,CALD Background,Disability Status,LGBTQ+ Indicator,Veteran Status,Flexible Work Arrangement
+E001,Female,51+,No,Yes,Yes,Yes,No,No
+E002,Female,31-40,Yes,Yes,No,No,Yes,Yes
+E003,Male,31-40,No,Yes,No,No,No,No
+E004,Male,41-50,No,No,No,No,No,No
+E005,Male,41-50,No,No,Yes,No,No,No
+E006,Male,41-50,No,No,No,No,Yes,Yes
+E007,Male,31-40,No,No,No,No,No,No
+E008,Male,31-40,No,No,No,No,No,No
+E009,Male,20-30,No,No,No,No,No,No
+E010,Female,41-50,No,Yes,No,No,No,No
+E011,Female,51+,No,No,Yes,No,No,No
+E012,Male,51+,No,Yes,No,No,No,No
+E013,Female,20-30,No,Yes,No,No,No,Yes
+E014,Male,41-50,No,Yes,No,No,No,No
+E015,Male,51+,No,No,No,No,No,No
+E016,Male,20-30,Yes,No,No,No,No,No
+E017,Male,51+,No,No,No,No,No,No
+E018,Male,51+,No,No,No,No,Yes,No
+E019,Male,41-50,No,No,No,No,No,No
+E020,Female,41-50,No,No,No,No,Yes,No
+E021,Female,41-50,No,No,No,No,Yes,No
+E022,Female,41-50,No,No,No,No,Yes,No
+E023,Female,41-50,No,No,No,No,Yes,No
+E024,Female,41-50,No,No,No,No,Yes,No
+E025,Female,41-50,No,No,No,No,Yes,No
+E026,Female,41-50,No,No,No,No,Yes,No

@@ -1,0 +1,27 @@
+﻿Employee ID,Full Name,Date of Birth,Gender,Contact Details,Address,Emergency Contact,Employment Status,Hire Date,Termination Date,Job Title,Department,Office Location,Region/State,Country,Manager,Award/Agreement,Employment Type
+E001,Mei Lin  Cheong,1990-12-31,Female,400941930,33 Example St,Emergency 536,Active,2019-06-04,,CEO,Executive,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E002,Sophia Bennett ,1995-10-12,Female,400108139,30 Example St,Emergency 509,Active,2019-04-01,,Executive Assistant,Executive,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E003,Rajesh Patel ,1993-03-30,Male,400962841,28 Example St,Emergency 904,Active,2022-12-17,,Chief Financial Officer,Finance,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E004,Ethan Brooks ,1993-03-09,Male,400270026,1 Example St,Emergency 294,Active,2020-03-25,,Accounts Receivable,Finance,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E005,Liam Parker,1991-03-02,Male,400925891,89 Example St,Emergency 296,Active,2022-09-19,,Accounts Payable,Finance,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E006,Fred Payrits,1972-02-28,Male,400677756,46 Example St,Emergency 172,Active,2021-11-14,,Payroll Officer,Finance,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E007,Lucas Reed,1976-04-11,Male,400891766,75 Example St,Emergency 207,Active,2018-01-26,,Sales Manager,Sales,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E008,Henry Davis,1973-09-15,Male,400932160,13 Example St,Emergency 303,Active,2022-10-01,,Sales Team Leader,Sales,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E009,Noah Turner,1979-02-25,Male,400659788,78 Example St,Emergency 310,Active,2021-07-18,,Sales Team Leader,Sales,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E010,Chantel Dubois,1982-07-27,Female,400748241,75 Example St,Emergency 227,Active,2020-07-26,,Sales Rep,Sales,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E011,Ella Morgan,1983-10-11,Female,400342606,64 Example St,Emergency 985,Active,2022-06-15,,Sales Rep,Sales,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E012,Matteo Bianchi,1970-11-19,Male,400531042,24 Example St,Emergency 700,Active,2019-05-28,,Sales Rep,Sales,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E013,Zainab Yusuf,1994-05-01,Female,400502332,8 Example St,Emergency 623,Active,2020-12-10,,Sales Rep,Sales,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E014,Hana Kim Park,1990-01-24,Male,400467328,34 Example St,Emergency 642,Active,2018-05-23,,Sales Rep,Sales,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E015,James Cooper,1971-12-19,Male,400966932,95 Example St,Emergency 450,Active,2020-10-09,,Sales Rep,Sales,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E016,Thomas Murray,1979-01-01,Male,400380479,36 Example St,Emergency 888,Active,2019-12-09,,Operations Manager,Operations,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E017,Joseph King,1978-12-21,Male,400181299,24 Example St,Emergency 131,Active,2019-07-05,,Operations Staff,Operations,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E018,Roland Jones,1994-03-29,Male,400282148,57 Example St,Emergency 201,Active,2021-05-24,,Operations Staff,Operations,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E019,Diego Morales,1979-07-18,Male,400498169,92 Example St,Emergency 785,Active,2018-09-08,,Operations Staff,Operations,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E020,Emily Scott,1993-12-03,Female,400706959,79 Example St,Emergency 644,Active,2018-07-28,,Operations Staff,Operations,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E021,James Lebron,1993-12-04,Male,400748241,75 Example St,Emergency 227,Active,2020-07-26,,Sales Rep,Sales,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E022,Odette Garrison,1993-12-05,Male,400342606,64 Example St,Emergency 985,Active,2022-06-15,,Sales Rep,Sales,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E023,Oliver Gray,1993-12-06,Female,400531042,24 Example St,Emergency 700,Active,2019-05-28,,Operations Staff,Operations,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E024,Sally Martin,1993-12-07,Male,400502332,8 Example St,Emergency 623,Active,2020-12-10,,Sales Rep,Sales,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E025,Sonia Michaels,1993-12-08,Male,400467328,34 Example St,Emergency 642,Active,2018-05-23,,Sales Rep,Sales,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
+E026,Tracy Green,1993-12-09,Female,400966932,95 Example St,Emergency 450,Active,2020-10-09,,Sales Rep,Sales,Subiaco Office,WA,Australia,Manager TBD,Clerks Award,Full-time
