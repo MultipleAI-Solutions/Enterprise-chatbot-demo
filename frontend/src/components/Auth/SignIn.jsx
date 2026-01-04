@@ -13,24 +13,18 @@ const SignIn = () => {
   const STATIC_USERNAME = 'demo';
   const STATIC_PASSWORD = '12345678';
 
-  const handleSubmit = async (e) => {
+  const handleSubmit = (e) => {
     e.preventDefault();
     setError('');
     setIsLoading(true);
 
     // Validate credentials
-    if (username === STATIC_USERNAME && password === STATIC_PASSWORD) {
-      // Simulate a small delay for better UX
-      setTimeout(() => {
-        localStorage.setItem('isAuthenticated', 'true');
-        setIsLoading(false);
-        navigate('/chat');
-      }, 500);
+    if (username.trim() === STATIC_USERNAME && password === STATIC_PASSWORD) {
+      localStorage.setItem('isAuthenticated', 'true');
+      navigate('/chat', { replace: true });
     } else {
-      setTimeout(() => {
-        setError('Invalid username or password');
-        setIsLoading(false);
-      }, 500);
+      setError('Invalid username or password');
+      setIsLoading(false);
     }
   };
 

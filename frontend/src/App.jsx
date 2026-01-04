@@ -6,17 +6,12 @@ import ChatPage from './pages/ChatPage';
 import './App.css';
 
 function App() {
-  const isAuthenticated = localStorage.getItem('isAuthenticated') === 'true';
-
   return (
     <Router>
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/signin" element={<SignInPage />} />
-        <Route 
-          path="/chat" 
-          element={isAuthenticated ? <ChatPage /> : <Navigate to="/signin" />} 
-        />
+        <Route path="/chat" element={<ChatPage />} />
       </Routes>
     </Router>
   );
