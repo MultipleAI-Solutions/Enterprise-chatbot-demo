@@ -3,7 +3,7 @@ module.exports = {
     {
       name: 'hr-chatbot-frontend',
       script: 'serve',
-      args: ['-s', 'build', '-l', '3006'],
+      args: ['-s', 'build', '--listen', '3006'],
       env: {
         NODE_ENV: 'production',
         PORT: 3006,
