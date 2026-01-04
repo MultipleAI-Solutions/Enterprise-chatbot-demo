@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { MessageSquare, LogOut } from 'lucide-react';
+import { MessageSquare, LogOut, Mic } from 'lucide-react';
 
 const Header = ({ showChatLink = false }) => {
   const navigate = useNavigate();
@@ -22,12 +22,21 @@ const Header = ({ showChatLink = false }) => {
           
           <nav className="flex items-center space-x-4">
             {showChatLink && isAuthenticated && (
-              <Link
-                to="/chat"
-                className="text-gray-700 hover:text-primary-600 px-3 py-2 rounded-md text-sm font-medium transition-colors"
-              >
-                Chat
-              </Link>
+              <>
+                <Link
+                  to="/chat"
+                  className="text-gray-700 hover:text-primary-600 px-3 py-2 rounded-md text-sm font-medium transition-colors"
+                >
+                  Chat
+                </Link>
+                <Link
+                  to="/chat-v2"
+                  className="flex items-center space-x-1 text-gray-700 hover:text-primary-600 px-3 py-2 rounded-md text-sm font-medium transition-colors"
+                >
+                  <Mic className="h-4 w-4" />
+                  <span>Voice Chat</span>
+                </Link>
+              </>
             )}
             {isAuthenticated ? (
               <button
