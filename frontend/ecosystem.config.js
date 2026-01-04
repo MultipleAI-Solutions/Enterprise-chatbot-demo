@@ -2,9 +2,8 @@ module.exports = {
   apps: [
     {
       name: 'hr-chatbot-frontend',
-      script: 'npm',
-      args: ['run', 'serve'],
-      cwd: './',
+      script: 'serve',
+      args: ['-s', 'build'],
       env: {
         NODE_ENV: 'production',
         PORT: 3006,
